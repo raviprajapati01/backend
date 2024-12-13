@@ -1,0 +1,3 @@
+# _______node_modules ingnore push on github________
+node_modules
+.env
